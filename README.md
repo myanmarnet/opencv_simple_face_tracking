@@ -8,7 +8,7 @@ windows OS - https://www.learnopencv.com/install-opencv3-on-windows/
 Mac OS - https://www.learnopencv.com/install-opencv3-on-macos/
 
 Completed the installation step.Open Folder FaceTracking and then  your favourite text-editior open with FaceTracking.py.
-Add your path xml file  these line "features = cv2.CascadeClassifier('add xml file in your installition directory ')"
+Add xml file  path these line "features = cv2.CascadeClassifier('add xml file in your installition directory ')"
 
 And then run sudo python FaceTracking.py in terminal or command prompt.
 -- If you have getting error,try on jupyter notebook.
